@@ -1,5 +1,6 @@
 # Project Stop Lights
 
+Please note that this project was created by sameersinha3. Funnybear681 is my other account :)
 
 ## Crosswalk Model
 
